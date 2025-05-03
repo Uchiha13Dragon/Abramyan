@@ -19,17 +19,98 @@
       <p>Task description in English.</p>
     </details>
     <details>
-      <summary>C language</summary>
+      <summary>C</summary>
      
-  ```C
+  ```c
   print("IGD Games")
 ```
   </details>
   <details>
-      <summary>Python language</summary>
+      <summary>C++</summary>
+     
+  ```c++
+  No Code ヾ(≧▽≦*)o
+```
+  </details>
+  <details>
+      <summary>C#</summary>
+     
+  ```csharp
+  No Code ヾ(≧▽≦*)o
+```
+  </details>
+  <details>
+      <summary>Java</summary>
+     
+  ```java
+  No Code ヾ(≧▽≦*)o
+```
+  </details>
+  <details>
+      <summary>Python</summary>
 
   ```python
   print("IGD Games")
+```
+  </details>
+  <details>
+      <summary>Dart</summary>
+     
+  ```dart
+  No Code ヾ(≧▽≦*)o
+```
+  </details>
+  </details>
+	<details>
+    <summary>===> 2 Begin</summary>
+    <details>
+      <summary>📃 Задания Ru</summary>
+      <p>Условие задачи на русском языке.</p>
+    </details>
+    <details>
+      <summary>📃 Tasks En</summary>
+      <p>Task description in English.</p>
+    </details>
+    <details>
+      <summary>C</summary>
+     
+  ```c
+  print("IGD Games")
+```
+  </details>
+  <details>
+      <summary>C++</summary>
+     
+  ```c++
+  No Code ヾ(≧▽≦*)o
+```
+  </details>
+  <details>
+      <summary>C#</summary>
+     
+  ```csharp
+  No Code ヾ(≧▽≦*)o
+```
+  </details>
+  <details>
+      <summary>Java</summary>
+     
+  ```java
+  No Code ヾ(≧▽≦*)o
+```
+  </details>
+  <details>
+      <summary>Python</summary>
+
+  ```python
+  print("IGD Games")
+```
+  </details>
+  <details>
+      <summary>Dart</summary>
+     
+  ```dart
+  No Code ヾ(≧▽≦*)o
 ```
   </details>
   </details>
