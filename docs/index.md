@@ -2,7 +2,6 @@
   <!-- Section Begin -->
   <summary>///=== Begin 40 ===\\\</summary>
   <details>
-    <fieldset>
     <summary>===> 1 Begin</summary>
     <details>
       <summary>📃 Задания Ru</summary>
@@ -14,7 +13,6 @@
     </details>
     <details>
       <summary>C language</summary>
-      </fieldset>
   ```C
   print("IGD Games")
 ```
