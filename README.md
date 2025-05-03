@@ -1,12 +1,14 @@
 # IGD Games X Abramyan
 Репозиторий с решениями задач на нескольких языках
 
- ## [IGD Games Website] (https://igd-games.website)
+### [IGD Games Website](https://igd-games.website)
+### [You tube ](https://www.youtube.com/@IGD_Games) 
+### [Instagram](https://www.instagram.com/igd_games)
 
-<hr><details>
-  <!-- Section Begin -->
+<hr>
+<details>
   <summary>///=== Begin 40 ===\\\</summary>
-  <details>
+    <details>
     <summary>===> 1 Begin</summary>
     <details>
       <summary>📃 Задания Ru</summary>
@@ -18,6 +20,7 @@
     </details>
     <details>
       <summary>C language</summary>
+     
   ```C
   print("IGD Games")
 ```
@@ -33,29 +36,49 @@
 </details>
 <hr>
       
-# Integer 30
-# Boolean 40
-# If 30
-# Case 20
-# For 40
-# While 30
-# Series 40
-# Proc 60
-# Func 60
-# Minmax 30
-# Array 140
-# Matrix 100
-# String 70
-# File 90
-# Text 60
-# Param 70
-# Recur 30
-# Dynamic 80
-# Dynamic (obj) 80
-# Tree 100
-# Tree (obj) 100
-# TablBase 30
-# TablExt 100
-
-
-
+ Integer 30
+ <hr>
+ Boolean 40
+ <hr>
+ If 30
+ <hr>
+ Case 20
+ <hr>
+ For 40
+ <hr>
+ While 30
+ <hr>
+ Series 40
+ <hr>
+ Proc 60
+ <hr>
+ Func 60
+ <hr>
+ Minmax 30
+ <hr>
+ Array 140
+ <hr>
+ Matrix 100
+ <hr>
+ String 70
+ <hr>
+ File 90
+ <hr>
+ Text 60
+ <hr>
+ Param 70
+ <hr>
+ Recur 30
+ <hr>
+ Dynamic 80
+ <hr>
+ Dynamic (obj) 80
+ <hr>
+ Tree 100
+ <hr>
+ Tree (obj) 100
+ <hr>
+ TablBase 30
+ <hr>
+ TablExt 100
+ <hr>
