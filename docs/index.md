@@ -1,4 +1,34 @@
-# Begin 40
+<hr><details>
+  <!-- Section Begin -->
+  <summary>///=== Begin 40 ===\\\</summary>
+  <details>
+    <summary>===> 1 Begin</summary>
+    <details>
+      <summary>📃 Задания Ru</summary>
+      <p>Условие задачи на русском языке.</p>
+    </details>
+    <details>
+      <summary>📃 Tasks En</summary>
+      <p>Task description in English.</p>
+    </details>
+    <details>
+      <summary>C language</summary>
+      
+  ```C
+  print("IGD Games")
+```
+  </details>
+  <details>
+      <summary>Python language</summary>
+
+  ```python
+  print("IGD Games")
+```
+  </details>
+  </details>
+</details>
+<hr>
+      
 # Integer 30
 # Boolean 40
 # If 30
@@ -22,3 +52,6 @@
 # Tree (obj) 100
 # TablBase 30
 # TablExt 100
+
+
+
